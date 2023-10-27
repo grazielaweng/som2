@@ -18,5 +18,5 @@ while(contador < listaDeTeclas.length){
         tocaSom(idAudio);
     }
     contador = contador + 1;
-    console,log(contador);  
+    console.log(contador);  
 }
